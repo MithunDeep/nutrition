@@ -1,0 +1,53 @@
+body{
+    background-image: "https://static01.nyt.com/images/2019/02/28/opinion/28yun/28yun-superJumbo.jpg";
+}
+
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey;
+}
+
+
+.nutrition_li
+{
+  margin-top: 20px;
+    margin-bottom: 20px;
+    width: 800px;
+}
+
+.nutrition_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.nutrition_li img
+{
+  border-radius: 25px;
+}
+
+.nutrition_li p
+{
+  margin-top:10px;
+}
+
+.header_entrepreneur
+{
+  line-height: 2;
+}
+
+
+
